@@ -2,6 +2,20 @@
 html {
   overflow-x: hidden;
 }
+div.c-forms-form-main.c-span-24.c-sml-span-12{
+  background-color: #f8f9fa;
+}
+div.c-forms-form-title
+{
+  background-color: #f8f9fa;
+}
+div.c-button-section{
+  background-color: #f8f9fa;
+}
+div.c-forms-form-body{
+  background-color: #f8f9fa;
+}
+
 
 body {
   background: #fff;
