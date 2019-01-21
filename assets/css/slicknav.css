@@ -26,7 +26,9 @@
   .slicknav_menu .slicknav_icon {
     margin: 0.188em 0 0 0.438em; }
   .slicknav_menu .slicknav_no-text {
-    margin: 0; }
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
   .slicknav_menu .slicknav_icon-bar {
     display: block;
     width: 1.125em;
