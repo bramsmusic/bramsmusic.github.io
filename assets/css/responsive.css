@@ -12,6 +12,12 @@
   .why .content h3 {
     font-size: 30px;
   }
+  .herop{
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 10px;
+  }
+
 }
 
 
@@ -44,6 +50,14 @@
   .services-item .services-content h3 a {
     font-size: 16px;
   }
+
+  .herop{
+    padding-left: 6em;
+    padding-right: 6em;
+    padding-top: 10px;
+  }
+
+
   #about .sec-title h3 {
     font-size: 30px;
     line-height: 42px;
@@ -85,6 +99,13 @@
   .section-padding {
     padding: 50px 0;
   }
+
+  .herop{
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 10px;
+  }
+
   .section-title {
     font-size: 22px;
     margin-bottom: 30px;
@@ -96,11 +117,11 @@
     margin: 5px 0;
   }
   #hero-area .contents {
-    padding: 100px 0px 60px 0px;
+    padding: 100px 0px 40px 0px;
   }
   #hero-area .contents .head-title {
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 30px;
+    line-height: 30px;
     margin-bottom: 15px;
   }
   #hero-area .contents p {

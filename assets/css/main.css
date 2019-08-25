@@ -3,6 +3,22 @@ html {
   overflow-x: hidden;
 }
 
+a.btnactive{
+  background-color: #ff3300;
+  color: white !important; 
+}
+.titlehr{
+margin-left: 30%;
+margin-right: 30%;
+}
+
+.herop{
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 10px;
+}
+
+
 .imagewrap {
   
   display: block;
